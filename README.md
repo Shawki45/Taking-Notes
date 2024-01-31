@@ -10,7 +10,8 @@
 
 
 ## Project links.
-    -
+    -https://shawki45.github.io/Taking-Notes/
+    - git@github.com:Shawki45/Taking-Notes.git
 
 
 
