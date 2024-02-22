@@ -12,7 +12,7 @@
 ## Project links.
     -https://shawki45.github.io/Taking-Notes/
     - https://github.com/Shawki45/Taking-Notes.git
-    
+
 
 
 ## Sources
